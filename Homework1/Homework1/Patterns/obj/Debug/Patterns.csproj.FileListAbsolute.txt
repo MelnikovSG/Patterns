@@ -1,0 +1,7 @@
+D:\7. Программирование\Patterns\Homework1\Homework1\Patterns\bin\Debug\Patterns.exe.config
+D:\7. Программирование\Patterns\Homework1\Homework1\Patterns\bin\Debug\Patterns.exe
+D:\7. Программирование\Patterns\Homework1\Homework1\Patterns\bin\Debug\Patterns.pdb
+D:\7. Программирование\Patterns\Homework1\Homework1\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
+D:\7. Программирование\Patterns\Homework1\Homework1\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+D:\7. Программирование\Patterns\Homework1\Homework1\Patterns\obj\Debug\Patterns.exe
+D:\7. Программирование\Patterns\Homework1\Homework1\Patterns\obj\Debug\Patterns.pdb
